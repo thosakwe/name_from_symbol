@@ -1,0 +1,7 @@
+author: "Tobe O <thosakwe@gmail.com>"
+description: "Get the name of a Dart symbol without reflection."
+homepage: "https://github.com/thosakwe/name_from_symbol.git"
+name: "name_from_symbol"
+version: "1.0.0"
+dev_dependencies:
+  test: ">=0.12.0 <0.13.0"
